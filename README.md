@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-You can view a live version [here](monster-rolodexs-app.netlify.app)
+You can view a live version [here](https://monster-rolodexs-app.netlify.app/)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
